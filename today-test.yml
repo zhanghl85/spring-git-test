@@ -1,0 +1,2 @@
+config:
+    info:"Springcloud-config,version=1" 测试config从git服务端获取yml配置文件
